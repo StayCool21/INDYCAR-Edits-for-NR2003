@@ -8,3 +8,10 @@ Because NASCAR's current situation with the developers of a new game (i.e. Motor
 
 So here we go...
 
+## The Basics
+
+Features:
+
+Added amounts of downforce to the cars. There's probably a little too much to simulate a present-day INDYCAR. On the fun side, it should provide a decent amount of grip **without any necessary increases to the surface grip of tracks in the game.** In fact, you probably will need to decrease many of your favorite track's grip settings, especially if they have a specific section for pta.
+
+
