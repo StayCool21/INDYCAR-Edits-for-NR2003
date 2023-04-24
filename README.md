@@ -12,6 +12,9 @@ So here we go...
 
 Features:
 
-Added amounts of downforce to the cars. There's probably a little too much to simulate a present-day INDYCAR. On the fun side, it should provide a decent amount of grip **without any necessary increases to the surface grip of tracks in the game.** In fact, you probably will need to decrease many of your favorite track's grip settings, especially if they have a specific section for pta.
+1. Added amounts of downforce to the cars. There's probably a little too much to simulate a present-day INDYCAR. On the fun side, it should provide a decent amount of grip **without any necessary increases to the surface grip of tracks in the game.** In fact, you probably will need to decrease many of your favorite track's grip settings, especially if they have a specific section for pta physiscs.
+
+2. 
+
 
 
