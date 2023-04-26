@@ -15,7 +15,7 @@ This .exe release has two different open-wheel physics: one that is a CART-like 
 
 Features:
 
-1. Added amounts of downforce to the cars. There's probably a little too much to simulate a present-day INDYCAR. On the fun side, it should provide a decent amount of grip **without any necessary increases to the surface grip of tracks in the game.** In fact, you probably will need to decrease many of your favorite track's grip settings, especially if they have a specific section for pta physiscs.
+1. Added amounts of downforce to the cars. There's probably a little too much to simulate a present-day INDYCAR for the first "CART" EXE, but the second one should at least somewhat represent a 2023 INDYCAR. In most cases, both EXEs it should provide a decent amount of grip **without any necessary increases to the surface grip of tracks in the game.** In fact, you probably will need to decrease many of your favorite track's grip settings, especially if they have a specific section for pta physiscs.
 
 2. Decreased weight. 
 
