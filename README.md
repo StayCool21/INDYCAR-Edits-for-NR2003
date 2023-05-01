@@ -19,7 +19,7 @@ Features:
 
 2. Decreased weight. 
 
-3. Engine changes. In both EXEs, I added more torque and an increased redline of 
+3. Engine changes. In both EXEs, I added more torque and an increased redline of 11,500 RPM. The added torque should give quite a bit more acceleration than the traditional pta physics.
 
 
 
