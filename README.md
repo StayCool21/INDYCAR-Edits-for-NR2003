@@ -21,5 +21,8 @@ Features:
 
 3. Engine changes. In both EXEs, I added more torque and an increased redline of 11,500 RPM. The added torque should give quite a bit more acceleration than the traditional pta physics.
 
+4. Ride height increases. With the normal pta physics, there was a lot of clipping going on, especially on high-banked ovals. You should be able to change both front and rear heights to higher values to alleviate some of this issue. Some clipping still may occur, however.
+
+## Installation Instructions
 
 
