@@ -31,3 +31,6 @@ Features:
 
 As long as you do these two steps, you should be good to go with these new physics!
 
+## Known Issues
+
+Unless you do some heavy editing with the track's AI settings, most tracks **will not work with these physics**. As of right now, I haven't had much time to dial in any racing with the AI, but you should still be able to have fun in track testing. If anyone wants to help to get AI racing more acceptable, feel free to do so or contact me on Reddit.
