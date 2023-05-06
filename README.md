@@ -37,4 +37,11 @@ Unless you do some heavy editing with the track's AI settings, most tracks **wil
 
 ## Closing Thoughts...
 
-Feel free to edit these EXEs, CSV files, setups, or anything else from this release. I only ask that if you do create any new physics similar to this and release it 
+Feel free to edit these EXEs, CSV files, setups, or anything else from this release. I only ask that if you do create any new physics similar to this and release it on a website similar to this **that you give credit to me (StayCool21)**. I truly believe that the only way we as a community can continue to grow this game if we create as many new and exciting things for people to try out.
+
+If you have any further questions about what I did or anything else related to NR2003, please message me. I'm always happy to help.
+
+
+Have fun racing, 
+
+StayCool21
