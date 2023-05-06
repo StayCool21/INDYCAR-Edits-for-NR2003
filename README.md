@@ -27,7 +27,7 @@ Features:
 
 1. Drag and drop the physics you like into the base folder of NR2003. You will need the pta physics to be installed previously in order for this to work, as well as the INDYCAR mod you want to play with.
 
-2. Copy the setup files from the tracks folder into the track's folder you want to use. I hope to add more of these later. Feel free to develop a good setup for your own favorite track. You may need to change the gearing with the setups I provide, as most of these setups are for the "current" specs EXE. You also may need to overwrite any former pta setups the track contained as well.
+2. Copy the setup files from the tracks folder into the track's folder you want to use. I hope to add more of these later. Feel free to develop a good setup for your own favorite track. You may need to change the gearing with the setups I provide, as most of these setups are for the "current" specs EXE. You also may need to overwrite any former pta setups the track contained as well, or you can just rename each file to whatever you want before dropping in the track's file directory.
 
 3. You may have to edit the grip settings to tailor the speeds you're looking for at each track. 
 
