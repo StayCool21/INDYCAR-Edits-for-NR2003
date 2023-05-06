@@ -25,4 +25,9 @@ Features:
 
 ## Installation Instructions
 
+1. Drag and drop the physics you like into the base folder of NR2003. You will need the pta physics to be installed previously in order for this to work, as well as the INDYCAR mod you want to play with.
+
+2. Copy the setup files from the tracks folder into the track's folder you want to use. I hope to add more of these later. Feel free to develop a good setup for your own favorite track.
+
+As long as you do these two steps, you should be good to go with these new physics!
 
