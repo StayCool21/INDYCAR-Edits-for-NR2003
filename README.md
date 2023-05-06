@@ -33,4 +33,8 @@ As long as you do these two steps, you should be good to go with these new physi
 
 ## Known Issues
 
-Unless you do some heavy editing with the track's AI settings, most tracks **will not work with these physics**. As of right now, I haven't had much time to dial in any racing with the AI, but you should still be able to have fun in track testing. If anyone wants to help to get AI racing more acceptable, feel free to do so or contact me on Reddit.
+Unless you do some heavy editing with the track's AI settings, most tracks **will not work with these physics**, at least on a consistent basis. As of right now, I haven't had much time to dial in any racing with the AI, but you should still be able to have fun in track testing. If anyone wants to help to get AI racing more acceptable, feel free to do so or contact me on Reddit.
+
+## Closing Thoughts...
+
+Feel free to edit these EXEs, CSV files, setups, or anything else from this release. I only ask that if you do create any new physics similar to this and release it 
